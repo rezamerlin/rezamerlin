@@ -43,7 +43,7 @@
 <img src="./assets/instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.github.com/merlincoder" target="_blank">
+<a href="https://www.github.com/rezamerlin" target="_blank">
 <img src="./assets/github.png" width=50 height=50 alt="merlincoder" style="margin-bottom: 5px;" />
 </a>
 
