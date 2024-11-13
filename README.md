@@ -27,3 +27,29 @@
 </p>
 
 ---
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:rezarahimi130@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="rezarahimi130@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+
+<a href="https://www.instagram.com/merlincoder" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.github.com/merlincoder" target="_blank">
+<img src="./github.png" width=50 height=50 alt="merlincoder" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/reza-rahimi/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
