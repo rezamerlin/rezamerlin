@@ -1,5 +1,5 @@
 <!--Banner-->
-![merlincoder Banner Image](./asstes/header.png)
+![merlincoder Banner Image](/asstes/header.png)
 
 
 <!--Header Name-->
