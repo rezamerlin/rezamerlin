@@ -47,7 +47,7 @@
 <img src="./assets/github.png" width=50 height=50 alt="merlincoder" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/reza-rahimi-893b0523b/" target="_blank">
+<a href="https://www.linkedin.com/in/merlincoder/" target="_blank">
 <img src="./assets/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
